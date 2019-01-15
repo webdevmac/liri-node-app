@@ -1527,3 +1527,27 @@ Artist: Backstreet Boys
 Song's name: I Want It That Way
 Album: The Hits--Chapter One
 Preview link of the song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=92ef01c8c099442e86e753de9c9c7da7
+
+Artist: Backstreet Boys
+Song's name: I Want It That Way
+Album: The Hits--Chapter One
+Preview link of the song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=92ef01c8c099442e86e753de9c9c7da7
+
+Artist: Metallica
+Song's name: Sad But True
+Album: Metallica
+Preview link of the song: https://p.scdn.co/mp3-preview/577a4a4762be905cc26096d90e0e4663fafc2ec0?cid=92ef01c8c099442e86e753de9c9c7da7
+
+Artist: Maroon 5
+Song's name: Payphone
+Album: Overexposed
+Preview link of the song: null
+
+Movie Title: The Green Mile
+Release Year: 1999
+IMDB Rating of the movie: 8.5
+Rotten Tomatoes Rating of movie: 8.5/10
+Country where the movie was produced: USA
+Language of the movie: English, French
+Plot of the movie: The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.
+Actors in the movie: Tom Hanks, David Morse, Bonnie Hunt, Michael Clarke Duncan
